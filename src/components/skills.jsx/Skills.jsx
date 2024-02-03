@@ -1,8 +1,8 @@
 import React from 'react';
 import './Skills.css';
-import UIDesign from '../../assets/ui-design.png';
-import WebDesign from '../../assets/Website-design.png'
-import AppDesign from '../../assets/app-design.png'
+import UIDesign from '/ui-design.png'
+import WebDesign from '/website-design.png'
+import AppDesign from '/app-design.png'
 
 const Skills = () => {
   return (

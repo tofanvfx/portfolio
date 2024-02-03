@@ -1,8 +1,8 @@
 import React from 'react';
 import './Navbar.css';
-import logo from '../../assets/logo.png'
+import logo from '/logo.png'
 import { Link } from 'react-scroll';
-import contactImg from '../../assets/contact.png'
+import contactImg from '/contact.png'
 
 const Navbar = () => {
   return (
